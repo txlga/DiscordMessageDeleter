@@ -22,9 +22,8 @@ If you have an urgent message about the operation of the bot, say `@AutoDelete a
 
 Add it to your server here: https://autodelete.riking.org/discord_auto_delete/oauth/start
 
-**[Support me on Patreon](https://patreon.com/riking)** if you enjoy the bot or to help keep it running! https://www.patreon.com/riking
+**If you have any question contact me on Discord @twoxy**
 
-Announcements server: https://discord.gg/FUGn8yE
 
 ## Usage
 

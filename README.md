@@ -24,8 +24,6 @@ Add it to your server here: https://autodelete.riking.org/discord_auto_delete/oa
 
 **If you have any questions, feel free to DM me via Discord @twoxy!**
 
-**
-
 
 ## Usage
 

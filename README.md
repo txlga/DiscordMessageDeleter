@@ -20,8 +20,6 @@ Messages are deleted on a "rolling" basis -- if you set a 24-hour live time, eac
 
 If you have an urgent message about the operation of the bot, say `@AutoDelete adminhelp ... your message here ...` and I'll get back to you as soon as I see it.
 
-Add it to your server here: https://autodelete.riking.org/discord_auto_delete/oauth/start
-
 **If you have any questions, feel free to DM me via Discord @twoxy!**
 
 
@@ -96,7 +94,7 @@ The "community instance" of the bot will retain operational usage data, includin
 
 In order to faciliate product support, and response and detection of violations of the Acceptable Use Policy, an automated scan of your Guild structure will be performed and a report produced, with a focus on users and roles carrying the _Manage Messages_ permission and channels where the bot is or was active. These reports may be shared with a limited audience to the extent necessary to identify or cure violations of the Acceptable Use Policy.
 
-Contact Riking via the announcements server if you would like to request a copy of this data under the GDPR or equivalent consumer rights legislation.
+Contact Twoxy via the announcements server if you would like to request a copy of this data under the GDPR or equivalent consumer rights legislation.
 
 The settings for a channel are kept on disk with the channel ID, guild ID, pinned message IDs, pin version timestamp, and time / count settings together. In the case that a channel is removed from the bot, either through `set 0` or kicking the bot from the server, these settings are deleted. Backup or archival copies of the settings may be retained indefinitely but will not be used except for the purposes of disaster recovery.
 

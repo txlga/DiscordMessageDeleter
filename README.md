@@ -12,7 +12,7 @@ Self-Hosting the bot (via Azure, AWS, Oracle Cloud, Docker instances) is provide
 
 # AutoDelete
 
-### _retention policies for 'gamers'_
+### _Retention policies for 'gamers'_
 
 **AutoDelete** is a Discord bot that will automatically delete messages from a designated channel.
 

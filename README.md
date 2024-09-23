@@ -8,7 +8,7 @@ The below instructions are kept as a guide for existing installs. The share comm
 
 Self-Hosting the bot (via Azure, AWS, Oracle Cloud, Docker instances) is provided via the Discord as a best effort process, but the underlying code is no longer being actively maintained. This message will be removed when this is no longer the case
 
-- 23 September 2024 - Re Update
+- 23 September 2024 Updated
 
 # AutoDelete
 
@@ -22,7 +22,9 @@ If you have an urgent message about the operation of the bot, say `@AutoDelete a
 
 Add it to your server here: https://autodelete.riking.org/discord_auto_delete/oauth/start
 
-**If you have any question contact me on Discord @twoxy**
+**If you have any questions, feel free to DM me via Discord @twoxy!**
+
+**
 
 
 ## Usage

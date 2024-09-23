@@ -8,7 +8,7 @@ The below instructions are kept as a guide for existing installs. The share comm
 
 Self-Hosting the bot (via Azure, AWS, Oracle Cloud, Docker instances) is provided via the Discord as a best effort process, but the underlying code is no longer being actively maintained. This message will be removed when this is no longer the case
 
--- 15-JAN-2023
+- 23 September 2024 - Re Update
 
 # AutoDelete
 
